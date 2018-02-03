@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AinTest</string>
+    <string name="btnParse">Parsing XML file</string>
+    <string name="btnProduct">Go to product</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="btnSave">SAVE</string>
+</resources>
